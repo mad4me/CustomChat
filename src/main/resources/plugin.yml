@@ -1,0 +1,4 @@
+name: CustomChat
+version: '${project.version}'
+main: mad4me.customchat.CustomChat
+api-version: '1.20'
